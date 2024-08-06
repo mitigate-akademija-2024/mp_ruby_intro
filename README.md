@@ -1,2 +1,2 @@
 # mp_ruby_intro
-### Test
+Day 1: Intro in Ruby syntax etc
